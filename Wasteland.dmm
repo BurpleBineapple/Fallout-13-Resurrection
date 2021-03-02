@@ -1,5 +1,6 @@
 "bk" = (/obj/item/reagent_containers/glass/bowl,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "bA" = (/turf/open/indestructible/ground/outside/dirt{dir = 1; icon_state = "dirt"},/area/f13/wasteland)
+"bU" = (/obj/structure/bookcase/random,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "cc" = (/obj/structure/campfire/stove,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "cz" = (/obj/structure/chair/wood{dir = 1},/turf/open/floor/f13/wood,/area/f13/wasteland)
 "dH" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
@@ -7,15 +8,22 @@
 "eD" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "fz" = (/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
 "fN" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier2,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"hk" = (/obj/effect/decal/cleanable/blood,/obj/structure/kitchenspike,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "hM" = (/turf/closed/indestructible/ncrwall,/area/f13/wasteland)
 "hO" = (/turf/open/indestructible/ground/outside/dirt{dir = 6; icon_state = "dirt"},/area/f13/wasteland)
 "jp" = (/turf/open/floor/wood/f13/old/ruinedstraighteast,/area/f13/wasteland)
+"jT" = (/turf/closed/wall/f13/wood,/area/f13/wasteland)
 "kc" = (/obj/structure/table/reinforced,/obj/structure/simple_door/metal/barred,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"kV" = (/obj/structure/rack/wooden,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"lo" = (/obj/effect/decal/cleanable/blood,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "lP" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"me" = (/obj/effect/decal/cleanable/blood/gibs/up,/obj/item/gun/magic/hook,/obj/item/kitchen/knife/butcher,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "mP" = (/obj/structure/chair/wood,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"mY" = (/obj/structure/curtain{color = "#845f58"},/obj/effect/decal/cleanable/blood,/turf/open/indestructible/ground/outside/dirt{dir = 8; icon_state = "dirt"},/area/f13/wasteland)
 "ny" = (/obj/structure/simple_door/metal/barred,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "nR" = (/turf/open/indestructible/ground/outside/dirt{icon_state = "dirt"},/area/f13/wasteland)
 "oQ" = (/obj/structure/window/fulltile,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"oY" = (/obj/effect/decal/cleanable/blood/gibs,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "pR" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "rv" = (/turf/open/indestructible/ground/outside/dirt,/area/f13/wasteland)
 "rw" = (/turf/closed/indestructible/ncrwall{icon_state = "supermart12"},/area/f13/wasteland)
@@ -23,37 +31,55 @@
 "tq" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_middle,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "un" = (/turf/open/indestructible/ground/outside/dirt{dir = 4; icon_state = "dirt"},/area/f13/wasteland)
 "uI" = (/obj/machinery/mineral/wasteland_trader,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"uN" = (/obj/structure/closet/crate/wicker,/obj/effect/spawner/lootdrop/clothing_middle,/obj/item/gun/ballistic/revolver/doublebarrel/improvised/sawn,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/improvised,/obj/item/ammo_casing/shotgun/buckshot,/obj/item/ammo_casing/shotgun/buckshot,/obj/item/ammo_casing/shotgun/magnumshot,/obj/item/ammo_casing/shotgun/beanbag,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "wl" = (/obj/structure/table/wood/settler,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "wP" = (/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "xf" = (/obj/structure/closet/crate/wicker,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/cash_random_low,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/turf/open/floor/f13/wood,/area/f13/wasteland)
+"xC" = (/obj/structure/table,/obj/item/kitchen/knife,/obj/item/reagent_containers/glass/bowl,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"xV" = (/obj/structure/closet/fridge/standard,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "ym" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"yt" = (/obj/structure/table/wood/settler,/obj/item/reagent_containers/glass/rag,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"yv" = (/obj/structure/closet/crate/wicker,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/f13/cash_random_low,/obj/effect/spawner/lootdrop/wmelee_low,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "zF" = (/obj/structure/reagent_dispensers/barrel/three,/obj/item/paper{name = "Water Merchants Order"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "zT" = (/turf/open/indestructible/ground/outside/dirt{dir = 9; icon_state = "dirt"},/area/f13/wasteland)
+"Ac" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/f13/cash_random_med,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "BO" = (/obj/structure/curtain{color = "#845f58"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
-"BW" = (/obj/structure/table/wood/settler,/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"BW" = (/obj/structure/chair/wood/normal{dir = 4},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"DH" = (/obj/structure/chair/stool/retro/tan,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "DM" = (/turf/open/indestructible/ground/outside/dirt{dir = 5; icon_state = "dirt"},/area/f13/wasteland)
 "Et" = (/turf/open/indestructible/ground/outside/dirt{dir = 8; icon_state = "dirt"},/area/f13/wasteland)
 "EB" = (/obj/structure/table/reinforced,/obj/item/key,/obj/item/key,/obj/item/lock,/obj/item/lock,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Fe" = (/turf/open/indestructible/ground/outside/dirt{dir = 10; icon_state = "dirt"},/area/f13/wasteland)
 "FT" = (/obj/structure/chair/wood/normal{dir = 4; icon_state = "wooden_chair_settler"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "HD" = (/obj/structure/chair/wood/normal{dir = 1},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"HN" = (/obj/structure/table/wood/settler,/obj/item/reagent_containers/glass/mortar,/obj/item/pestle,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "IC" = (/obj/structure/bed/wooden,/obj/item/bedsheet{icon_state = "sheetbrown"; tag = "icon-sheetbrown"},/turf/open/floor/f13/wood,/area/f13/wasteland)
 "LR" = (/obj/structure/chair/wood/normal,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Mc" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"Ms" = (/obj/structure/closet/crate/wicker,/obj/item/lighter/greyscale,/obj/item/wirecutters/basic,/obj/item/hatchet,/obj/item/crowbar/basic,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "MS" = (/turf/open/floor/f13/wood,/area/f13/wasteland)
+"Np" = (/obj/structure/closet/fridge/meat,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "NP" = (/turf/open/floor/wood/f13/old/ruinedstraightwest,/area/f13/wasteland)
 "NQ" = (/obj/structure/table/reinforced,/obj/structure/barricade/bars,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"Os" = (/obj/structure/chair/wood/normal{dir = 8},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "PH" = (/turf/closed/indestructible/ncrwall{canSmoothWith = list(/turf/closed/indestructible/ncrwall)},/area/f13/wasteland)
+"PQ" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Qb" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/f13/wood,/area/f13/wasteland)
 "Qm" = (/obj/structure/table/reinforced,/obj/item/key/vending,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Ra" = (/turf/open/floor/wood/f13/old/ruinedstraightsouth,/area/f13/wasteland)
 "Sh" = (/obj/structure/bookcase/random,/turf/open/floor/f13/wood,/area/f13/wasteland)
 "Sl" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/f13/cash_random_high,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Sz" = (/turf/closed/wall/f13/tentwall,/area/f13/wasteland)
+"SA" = (/obj/effect/decal/cleanable/blood/gibs/old,/obj/structure/closet/fridge/meat,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "SZ" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Uo" = (/obj/structure/barricade/bars,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"UB" = (/obj/structure/chair/wood{dir = 1},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"UY" = (/obj/structure/closet/crate/wicker,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/item/reagent_containers/pill/patch/healingpowder,/obj/item/reagent_containers/pill/patch/healingpowder,/obj/item/reagent_containers/food/snacks/grown/broc,/obj/item/reagent_containers/food/snacks/grown/broc,/obj/item/reagent_containers/food/snacks/grown/broc,/obj/item/reagent_containers/food/snacks/grown/broc,/obj/item/reagent_containers/food/snacks/grown/broc,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/food/snacks/grown/xander,/obj/item/reagent_containers/glass/mortar,/obj/item/pestle,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"VO" = (/obj/effect/decal/cleanable/blood,/obj/machinery/smartfridge/drying_rack,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/obj/item/reagent_containers/food/snacks/sosjerky/healthy,/turf/open/indestructible/ground/inside/dirt,/area/f13/wasteland)
 "XV" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/resourcespawner,/obj/effect/spawner/lootdrop/f13/resourcespawner,/obj/effect/spawner/lootdrop/f13/resourcespawner,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Yg" = (/turf/open/indestructible/ground/outside/dirt{dir = 4; icon_state = "dirt"; tag = "icon-dirt (EAST)"},/area/f13/wasteland)
+"Zk" = (/obj/structure/table/wood/settler,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"Zy" = (/obj/structure/table/wood/settler,/obj/item/storage/box/drinkingglasses,/obj/item/storage/box/bowls,/obj/item/kitchen/knife,/obj/item/kitchen/rollingpin,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 
 (1,1,1) = {"
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
@@ -79,33 +105,33 @@ fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzdXdXdXdXdXdXdXRadXoQdXfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzdXwPwPbkccSzxfMSMSICdXfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzdXdXdXoQdXdXdXdXdXdXoQdXdXdXdXdXdXdXdXdXfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzdXBWZkZkOswPwPwPwPwPwPwPwPwPwPBOwPwPuNdXfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfznRnRnRnRnRnRnRnRnRhOrvEtfzfzdXwPwPwPwPwPwPwPDHZkZkytwPwPxVSzwPFTAcoQfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzbAbAbAbAbAbAbAbAbADMrvEtfzfzdXwPwPwPwPwPwPwPDHZkwPwPwPwPNpSzwPwPwPdXfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXdXRadXoQdXdXdXfzfzfzfzYgrvEtfzfzoQZkOswPwPZkOswPDHZkHNZykVccwPSzrPwPbUdXfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXwPwPwPwPwPwPdXfzfzfzfzYgrvEtfzfzdXZkOswPwPwPwPwPdXdXdXdXdXdXdXdXdXBOdXdXfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXxCwPwPwPmPwPdXfzfzfzfzYgrvEtfzfzdXwPwPwPwPLRwPwPdXfzfzjTjTfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXccwPPQZkZkMcoQfzfzfzfzYgrvEtfzfzdXLRLRwPwPZkZkOsdXfzjTSAVOjTfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXwPwPwPUBwPwPdXfzfzfzfzYgrvEtfzfzoQZkZkwPwPHDwPwPdXfzjTlooYmYfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXbUwPwPwPUYMsdXfzfzfzfzYgrvEtfzfzdXwPHDwPwPwPwPwPdXfzjTmehkjTfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXSzSzBOSzSzSzdXfzfzfzfzYgrvFenRfzjpwPwPwPwPwPwPwPdXfzfzjTjTfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXwPwPwPwPwPwPdXfzfzfzfzYgrvzTbAfzdXdXdXdXoQdXdXdXdXfzfzfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzoQrPyvwPwPyvrPdXfzfzfzfzYgrvEtfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzdXdXdXdXdXdXdXdXfzfzfzfzYgrvEtfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzYgrvEtfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzYgrvEtfzfzdXdXdXdXdXdXdXRadXoQdXfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzYgrvEtfzfzdXwPwPbkccSzxfMSMSICdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXdXdXdXdXdXdXdXdXdXdXfzfzYgrvEtfzfzdXwPLRwPwPSzxfMSMSQbdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXrPzFfNtqwPQmNQuIuIdXfzfzYgrvEtfzfzdXFTymwPwPSzxfMSMSICdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXwPwPlPeDwPwPkcwPwPdXfznRhOrvFenRfzdXwPwPwPwPBOMSMSMSMSoQfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXwPwPwPwPwPEBNQwPwPNPfzbADMrvzTbAfzjpwPwPLRwPSzxfMSMSICdXfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzdXmPwPSZpRwPwPUowPMcdXfzfzunrvEtfzfzdXwPFTBWymSzMSMSMSMSdXfzfzfzfzfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzdXmPwPSZpRwPwPUowPMcdXfzfzunrvEtfzfzdXwPFTymymSzMSMSMSMSdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXSlwldHXVwPwPnywPMcdXfzfzunrvEtfzfzoQwPwPwPHDSzShShICczdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzdXdXdXdXdXdXdXdXdXdXdXfzfzYgrvEtfzfzdXdXdXoQdXdXdXdXoQdXdXfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzYgrvEtfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzYgrvEtfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
-fzfzfzfzfzfzfzfzfzfzfzfzfzPHrwrwrwrwPHrwrwrwrwPHunrvEtPHrwrwrwrwPHrwrwrwrwPHrwrwrwrwhMrwfzfzfzfzfzfz
+fzfzfzfzfzfzfzfzfzfzfzfzfzPHrwrwrwrwPHrwrwrwrwPHunrvEtPHrwrwrwrwPHrwrwrwrwPHrwrwrwrwhMfzfzfzfzfzfzfz
 "}
 (1,1,2) = {"
 fzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfz
