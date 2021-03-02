@@ -1,1015 +1,1110 @@
-"am" = (/obj/structure/ladder/unbreakable,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"aw" = (/obj/structure/sink{dir = 4; pixel_x = 12; pixel_y = 15},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"bC" = (/obj/structure/toilet{pixel_x = 5},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"cu" = (/obj/structure/table/reinforced,/obj/machinery/microwave,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"cy" = (/obj/structure/bed,/obj/item/bedsheet/patriot,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"ds" = (/obj/machinery/door/airlock/grunge/abandoned,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"gV" = (/obj/machinery/light/small{dir = 1},/obj/structure/chair/comfy/black,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"hp" = (/obj/machinery/shower{dir = 1},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"hO" = (/obj/structure/chair{dir = 1},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"hU" = (/obj/item/flag/bos,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"hZ" = (/obj/structure/fence,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"iG" = (/obj/structure/table,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"iI" = (/obj/structure/fence,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
-"jW" = (/obj/structure/table/reinforced,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"kC" = (/obj/structure/closet/crate/wooden,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"mk" = (/obj/structure/closet/crate/bin,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"mq" = (/obj/machinery/door/airlock/grunge/abandoned,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"nH" = (/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"oB" = (/obj/item/flag/bos,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
-"rf" = (/obj/machinery/light/small/broken{dir = 1},/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
-"ru" = (/obj/machinery/light/small,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"th" = (/obj/structure/fence/end{dir = 4},/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"ue" = (/obj/machinery/computer/rdconsole/core/bos{dir = 8},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"uD" = (/obj/structure/fence/door,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"uK" = (/obj/machinery/light/small{dir = 8},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"we" = (/obj/structure/sink/kitchen{dir = 4; pixel_x = -12},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"xi" = (/obj/structure/closet/crate/footlocker,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"xP" = (/obj/structure/table/reinforced,/obj/item/reagent_containers/food/drinks/bottle/f13nukacola{pixel_x = -10},/obj/item/reagent_containers/food/drinks/bottle/f13nukacola{pixel_x = 10},/obj/item/reagent_containers/food/drinks/bottle/f13nukacola,/obj/item/reagent_containers/food/drinks/bottle/f13nukacola{pixel_x = -6; pixel_y = 6},/obj/item/reagent_containers/food/drinks/bottle/f13nukacola{pixel_x = 5; pixel_y = 6},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"yV" = (/obj/structure/closet/crate/footlocker/brotherhood,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"za" = (/obj/machinery/shieldwallgen,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
-"zt" = (/obj/structure/chair,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"zV" = (/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
-"AL" = (/obj/structure/closet,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"BW" = (/obj/structure/closet/crate/footlocker/brotherhood,/obj/machinery/light/small/broken{dir = 8},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Ek" = (/obj/machinery/shieldwallgen,/turf/closed/wall/r_wall/rust,/area/f13/wasteland)
-"Fj" = (/obj/structure/toilet{pixel_x = -5},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Ge" = (/obj/machinery/light/small/broken{dir = 8},/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"Ho" = (/obj/structure/decoration_f13/bunker_vent/rusted,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"IU" = (/obj/structure/table/reinforced,/obj/item/paper_bin{pixel_x = -5; pixel_y = 5},/obj/item/pen/fountain{pixel_x = -5; pixel_y = 5},/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"Js" = (/obj/structure/closet/crate/large,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Ku" = (/obj/structure/mirror{pixel_x = -8; pixel_y = 15},/turf/closed/wall/r_wall/rust,/area/f13/wasteland)
-"LY" = (/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
-"Mb" = (/obj/structure/fence/end{dir = 8},/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"Nb" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"OH" = (/obj/structure/closet/fridge/standard,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Rl" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Ru" = (/turf/closed/wall/r_wall/rust,/area/f13/wasteland)
-"Sw" = (/obj/machinery/light/small/broken,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"TO" = (/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
-"Uu" = (/obj/machinery/light/small/broken{dir = 8},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"WU" = (/obj/machinery/light/small/broken{dir = 4},/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"Zj" = (/obj/structure/table/reinforced,/turf/open/floor/plasteel/floorgrime,/area/f13/wasteland)
-"ZK" = (/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
-"ZW" = (/obj/structure/fence{dir = 8},/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"aM" = (/obj/structure/sign/poster/contraband/pinup_shower,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"aU" = (/obj/machinery/computer/rdservercontrol{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"bo" = (/obj/machinery/shieldwallgen,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"bu" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/recharge_station,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"cg" = (/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"cx" = (/obj/structure/table,/obj/item/trash/f13/crisps,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"df" = (/obj/machinery/light/small,/obj/machinery/vending/dinnerware,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"dn" = (/obj/machinery/vending/wallmed,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"dA" = (/obj/structure/handrail/g_central{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"dB" = (/obj/structure/sign/poster/contraband/pinup_ride,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"fc" = (/obj/effect/decal/cleanable/salt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"fk" = (/mob/living/simple_animal/hostile/handy/protectron/playable{name = "Supply Corporal Pile"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"fL" = (/obj/machinery/rnd/production/circuit_imprinter,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"fX" = (/obj/structure/sign/poster/prewar/poster64,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"gd" = (/obj/machinery/vending/coffee,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"ge" = (/obj/item/trash/can,/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/obj/effect/decal/cleanable/vomit/old,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"gP" = (/obj/structure/closet,/obj/effect/spawner/lootdrop/f13/armor/tier3,/obj/effect/spawner/lootdrop/f13/armor/clothes,/obj/effect/spawner/lootdrop/f13/medical/vault/meds,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier3,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,/obj/effect/spawner/lootdrop/two_percent_xeno_egg_spawner,/obj/item/storage/belt/military/army,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"gQ" = (/obj/structure/table,/obj/item/trash/f13/porknbeans,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"gV" = (/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"gZ" = (/obj/structure/sign/poster/contraband/pinup_topless,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"hO" = (/obj/structure/sign/poster/prewar/poster93,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"id" = (/obj/machinery/vending/snack/blue,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"iJ" = (/obj/structure/handrail/g_central{dir = 10},/obj/structure/handrail/g_central{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"iM" = (/obj/machinery/door/airlock/grunge/abandoned,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"iN" = (/obj/structure/closet/crate/wooden,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/item/storage/fancy/cigarettes/cigpack_robust,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"iY" = (/obj/structure/fence/end{dir = 8},/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"ja" = (/obj/structure/handrail/g_central{dir = 10},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"ji" = (/obj/structure/fence/door,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"jl" = (/obj/item/trash/can,/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"jC" = (/obj/machinery/door/airlock/grunge/abandoned,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"jJ" = (/obj/effect/landmark/start/f13/scribe,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"jK" = (/obj/structure/table,/obj/item/storage/toolbox/electrical,/obj/item/storage/toolbox/mechanical,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"kH" = (/obj/structure/mopbucket,/obj/item/mop,/obj/item/crafting/abraxo,/obj/machinery/light/small/broken{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"kZ" = (/obj/structure/closet/crate/footlocker,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"lf" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"lg" = (/obj/machinery/light/small{dir = 1},/obj/structure/chair/comfy/black,/obj/effect/landmark/start/f13/paladin,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"lx" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/remains/human,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"lB" = (/obj/structure/closet,/obj/effect/spawner/lootdrop/f13/armor/tier3,/obj/effect/spawner/lootdrop/f13/armor/clothes,/obj/effect/spawner/lootdrop/f13/medical/vault/meds,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier3,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,/obj/item/storage/belt/military/army,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"lZ" = (/obj/machinery/computer/rdconsole/core/bos{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"md" = (/obj/machinery/rnd/production/protolathe,/obj/machinery/light/small{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"mi" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/radroach,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"mp" = (/obj/structure/ladder/unbreakable,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"mv" = (/obj/structure/bed,/obj/item/bedsheet/patriot,/obj/item/trash/can,/obj/item/trash/can,/obj/item/trash/candy,/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/hostile/radroach,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"nf" = (/obj/structure/chair{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"oO" = (/obj/machinery/vending/nukacolavendfull,/obj/machinery/light/small{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"qa" = (/obj/machinery/power/smes,/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/machinery/light/small/broken{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"qr" = (/obj/structure/fence,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"qt" = (/obj/machinery/light/small/broken{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"qI" = (/obj/structure/fence{dir = 8},/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"rB" = (/obj/structure/handrail/g_central,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"rE" = (/obj/effect/decal/cleanable/dirt,/obj/structure/nest/radroach,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"rU" = (/obj/structure/closet/fridge/standard,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/item/reagent_containers/food/snacks/f13/cram/large,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"rW" = (/obj/structure/sign/poster/official/ue_no,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"so" = (/obj/structure/sign/poster/prewar/poster66,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"sR" = (/obj/structure/decoration_f13/bunker_vent/rusted,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"ti" = (/obj/structure/sink{dir = 4; pixel_x = 12; pixel_y = 15},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"tz" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"tP" = (/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"uS" = (/obj/structure/toilet{pixel_x = 5},/obj/effect/spawner/lootdrop/trash,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"vM" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"we" = (/obj/structure/sink/kitchen{dir = 4; pixel_x = -12},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"wu" = (/obj/structure/sign/poster/prewar/poster65,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"wx" = (/obj/structure/closet/crate/wooden,/obj/item/flashlight/seclite,/obj/item/flashlight/seclite,/obj/item/flashlight/seclite,/obj/item/flashlight/seclite,/obj/item/flashlight/seclite,/obj/item/flashlight/seclite,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"wP" = (/obj/structure/extinguisher_cabinet,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"xc" = (/obj/structure/sign/poster/prewar/poster90,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"xG" = (/obj/structure/sign/poster/prewar/poster62,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"xK" = (/obj/machinery/defibrillator_mount/loaded,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"xL" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"yj" = (/obj/machinery/light/small{dir = 1},/obj/item/trash/can,/obj/item/trash/can,/obj/item/trash/candy,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"zd" = (/obj/structure/closet/crate/wooden,/obj/item/stack/sheet/metal/fifty,/obj/item/stack/sheet/plasteel/fifty,/obj/item/stack/sheet/prewar/fifty,/obj/item/stack/sheet/emptysandbag,/obj/item/stack/sheet/glass/fifty,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"zC" = (/obj/structure/table,/obj/item/trash/f13/steak,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Ac" = (/obj/structure/closet/crate/footlocker/brotherhood,/obj/item/trash/can,/obj/item/trash/can,/obj/item/trash/f13/crisps,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"AB" = (/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/item/stack/sheet/mineral/uranium,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Be" = (/obj/structure/sign/poster/contraband/pinup_bed,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Bg" = (/obj/structure/sign/poster/prewar/protectron,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Bh" = (/obj/machinery/light/small/broken{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"BN" = (/obj/structure/sign/poster/contraband/pinup_couch,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"BP" = (/obj/item/trash/f13/fancylads,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Ct" = (/obj/structure/closet/crate/hydroponics,/obj/item/paper/guides/jobs/hydroponics,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"CF" = (/obj/structure/frame/machine,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Eu" = (/obj/machinery/light/small/broken{dir = 1},/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"EG" = (/obj/structure/handrail/g_central,/obj/machinery/light/small{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"EI" = (/obj/machinery/light/small{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"EW" = (/obj/machinery/light/small/broken,/obj/effect/decal/cleanable/dirt,/obj/structure/table/reinforced,/obj/machinery/cell_charger,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Fr" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/insectguts,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Fy" = (/obj/machinery/power/apc/unlocked,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Ge" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/insectguts,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"GJ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/flour,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"GO" = (/obj/item/flag/bos,/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"Hx" = (/obj/machinery/sleeper/old,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"HD" = (/obj/structure/table,/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"HR" = (/obj/structure/sign/poster/ripped,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Iz" = (/obj/machinery/power/terminal{dir = 1},/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"IL" = (/obj/effect/mine/explosive,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"IT" = (/obj/structure/sign/poster/prewar/poster67,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Jz" = (/obj/effect/decal/cleanable/dirt,/mob/living/simple_animal/bot/cleanbot,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"JP" = (/obj/structure/closet/crate/large,/obj/item/storage/box/hug/medical,/obj/item/storage/box/hug/medical,/obj/item/storage/box/hug/medical,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Kv" = (/obj/machinery/power/port_gen/pacman/super,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Ky" = (/obj/structure/handrail/g_central{dir = 9},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"KV" = (/obj/structure/closet/crate/bin,/obj/item/storage/bag/trash,/obj/machinery/light/small/broken,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"LM" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/obj/effect/decal/cleanable/generic,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Me" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/generic,/mob/living/simple_animal/hostile/radroach,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"MH" = (/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"MO" = (/obj/structure/sign/poster/contraband/pinup_vixen,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"MS" = (/obj/structure/bed,/obj/item/bedsheet/patriot,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"MZ" = (/obj/structure/closet/crate/wooden,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Nq" = (/obj/machinery/light/small/broken,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Oq" = (/obj/effect/landmark/start/f13/Knight,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"OL" = (/obj/structure/sign/poster/official/love_ian,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"OS" = (/obj/structure/sign/poster/official/ian,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"OU" = (/obj/machinery/shower{dir = 1},/obj/structure/curtain,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Py" = (/obj/machinery/power/terminal{dir = 1},/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Pz" = (/obj/effect/landmark/start/f13/initiate,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"PE" = (/obj/structure/sign/poster/prewar/poster71,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"PF" = (/obj/structure/bed,/obj/item/bedsheet/patriot,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/remains/human,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Qt" = (/obj/structure/table/reinforced,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Qw" = (/obj/structure/table,/obj/item/trash/f13/blamco_large,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Rg" = (/obj/structure/table/reinforced,/obj/machinery/light/small{dir = 1},/obj/item/kitchen/knife/cosmic,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Rr" = (/obj/machinery/light/small{dir = 4},/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"RC" = (/obj/structure/nest/radroach,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Sa" = (/obj/structure/closet/crate/footlocker/brotherhood,/obj/machinery/light/small/broken{dir = 8},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"SO" = (/obj/machinery/light/small{dir = 4},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"SQ" = (/obj/structure/toilet{pixel_x = -5},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/cobweb/cobweb2,/obj/effect/decal/cleanable/vomit/old,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"SU" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"SV" = (/obj/machinery/light/small{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Tj" = (/obj/machinery/light/small,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"TJ" = (/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/red,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"TN" = (/obj/structure/sign/poster/prewar/poster61,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"TR" = (/obj/structure/table/reinforced,/obj/machinery/reagentgrinder/constructed{pixel_y = 10},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"TS" = (/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Ua" = (/obj/structure/closet/crate/large,/obj/machinery/light/small{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Uu" = (/obj/structure/closet/crate/large,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"UN" = (/obj/structure/fence/end{dir = 4},/turf/open/indestructible/ground/outside/desert,/area/f13/brotherhood)
+"UY" = (/obj/structure/reagent_dispensers/fueltank,/obj/item/clothing/glasses/welding,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Vx" = (/obj/machinery/light/small{dir = 8},/obj/item/trash/can,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Vz" = (/obj/structure/closet/crate/bin,/obj/item/storage/bag/trash,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"VJ" = (/obj/structure/chair,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"VY" = (/obj/structure/table/reinforced,/obj/item/crowbar/large,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"WX" = (/obj/structure/closet/crate/footlocker/brotherhood,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"XF" = (/obj/structure/sign/poster/prewar/poster60,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"XL" = (/obj/structure/table/reinforced,/obj/item/paper_bin{pixel_x = -5; pixel_y = 5},/obj/item/pen/fountain{pixel_x = -5; pixel_y = 5},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"XT" = (/obj/structure/sign/poster/official/twelve_gauge,/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"Yc" = (/obj/structure/table/reinforced,/obj/machinery/microwave,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"YB" = (/obj/effect/decal/cleanable/dirt,/obj/structure/table/reinforced,/obj/machinery/recharger,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"YE" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/workbench/advanced,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"YI" = (/obj/structure/mirror{pixel_x = -8; pixel_y = 15},/turf/closed/wall/r_wall/rust,/area/f13/brotherhood)
+"YT" = (/obj/structure/closet/crate/footlocker,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"Zc" = (/obj/machinery/vending/medical,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
+"ZA" = (/obj/machinery/power/smes,/obj/item/stack/cable_coil/cut/red,/obj/item/stack/cable_coil/cut/red,/obj/machinery/light/small{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/floorgrime,/area/f13/brotherhood)
 
 (1,1,1) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKthZWZWZWZWZWZWZWZWZWZWZWZWZWZWMbZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKZKZKZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKHoHoZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKHoHoZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKZKZKZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKZKZKZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYLYLYLYLYRuRuRuRuRuZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYTOTOgVTOnHRunHnHRuZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYGeIUjWjWWURuamRlRuZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYTOTOTOTOnHmqnHnHRuZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYLYLYdsLYRuRuRuRuRuZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVLYzVoBzVrfZKhURuZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVzazVzVzVzVZKZKEkZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKzViIzVzVzVzVzVzVzVZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKhZZKZKZKZKZKZKZKZKZKZKZKZKZKZKhZZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKthZWZWZWZWZWZWuDZWZWZWZWZWZWZWMbZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+ILcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgILcgcgcgcgcgcgcgILcgcgcg
+cgcgcgcgcgcgILcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgIL
+cgcgcgcgcgcgcgcgcgcgcgcgUNqIqIqIqIqIqIqIqIqIqIqIqIqIqIiYcgcg
+cgcgILcgcgcgcgcgcgcgcgcgqrMHMHMHMHMHMHMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHMHMHsRsRMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHMHMHsRsRMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHMHMHMHMHMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgILcgcgcgcgqrMHMHMHMHMHMHMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHTSdnTSTSTSTSTSTSTSTSMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHTSxLjJlgOqPzTSxLxLTSMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHTSqtXLQtVYBhTSmpEITSMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHTSxLxLxLxLxLjCxLxLTSMHMHqrcgcg
+cgcgcgILcgcgcgcgcgcgcgcgqrMHMHTSTSTSjCTSTSTSTSTSTSMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHTSMHGOMHEuMHGOTSMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHboMHMHMHMHMHMHboMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgILcgcgcgcgqrMHMHMHMHMHMHMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgqrMHMHMHMHMHMHMHMHMHMHMHMHMHMHqrcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgUNqIqIqIqIqIqIjiqIqIqIqIqIqIqIiYcgcg
+cgcgcgcgILcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgILcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgILcgcgcgcg
+cgcgILcgcgcgcgcgcgcgcgcgcgcgcgILcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgILcgcgcgcgcgILcgcgcgcgcgcgcgcgcgcgcgILcgcgcgcgcgcgILcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,2) = {"
-ZKRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuBWcynHyVcyNbxicynHxicyRlRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHueRunHnHnHnHnHnHnHnHnHnHnHnHRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuyVcynHyVcynHxicynHxicynHRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuuKnHnHnHnHSwnHnHnHnHnHRlRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuRumqRuRuRuRuRuRuRumqRuRuRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHmkNbnHnHnHNbnHnHnHnHRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuUunHnHnHztnHztnHnHnHnHnHRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHnHnHiGiGiGnHnHnHnHRlRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHnHnHhOnHhOnHnHnHnHnHRuZKZKZKZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHnHnHnHnHnHnHnHnHnHnHRuRuRuRuZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHnHnHztnHztnHnHnHnHnHRunHnHRuZKZKZKZKZK
-ZKRunHnHnHnHnHnHRuUunHnHnHiGiGiGnHnHnHnHWURuamRlRuZKZKZKZKZK
-ZKRunHnHnHnHnHnHmqnHnHnHnHhOnHhOnHnHnHnHnHmqnHnHRuZKZKZKZKZK
-ZKRunHnHnHnHnHnHRunHnHnHrunHnHnHSwmknHnHnHRuRuRuRuZKZKZKZKZK
-ZKRuRuRuRuRuRuRuRuRuRuRuRuRumqRuRuRuRuRuRuRuZKZKZKZKZKZKZKZK
-ZKRukCkCkCnHALALRuOHcuZjxPnHnHnHnHRubCnHFjRuZKZKZKZKZKZKZKZK
-ZKRuJskCnHnHnHnHmqnHnHnHZjnHnHnHnHmqnHnHnHRuZKZKZKZKZKZKZKZK
-ZKRuJsJskCnHnHnHRuwenHnHnHnHnHnHnHRuhpnHawKuZKZKZKZKZKZKZKZK
-ZKRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuRuZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgTSTSTSTSTSTSFyTSPEBeHRxcdBHRxGgZwPHRBNhOTScgcgcgcgcgcgcgcg
+cgTSjKqaKvCFZAPyTNSaPFxLAcmvyjkZMSxLYTMSSOfXcgcgcgcgcgcgcgcg
+cgwPxLIzABTJIzgVOSxLBPxLjlgejlxLRCtPxLxLmiHRcgcgcgcgcgcgcgcg
+cgTSrEvMKyrBrBrBBgWXMSxLWXMSxLYTMSFrYTPFxLOLcgcgcgcgcgcgcgcg
+cgTSxLlxdAxLxLxLXFVxxLvMxLxLNqxLxLxLxLxLRrwucgcgcgcgcgcgcgcg
+cgTSqtxLxLxLlZmdTSHRiMXTITHRMOdnHRrWiMsoHRTScgcgcgcgcgcgcgcg
+cgTSxLxLxLvMaUfLTSLMxLVzSVxLmixLxLSVxLmixLTScgcgcgcgcgcgcgcg
+cgTSxLvMdAxLxLxLTSqtxLxLxLVJxLVJvMxLxLxLEITScgcgcgcgcgcgcgcg
+cgTSxLxLiJrBrBrBTSxLxLRCxLHDSUcxxLxLxLxLxLTScgcgcgcgcgcgcgcg
+cgTSxLFrxLxLxLHxTSxLxLFrxLnfxLnfxLxLxLlxxLTScgcgcgcgcgcgcgcg
+cgxKqtxLZcrBrBEGwPxLxLxLxLFrxLmivMxLFrxLxLTSTSTSTScgcgcgcgcg
+cgTSmixLxLxLxLHxTSxLxLlxxLVJxLVJxLxLRCxLxLTStzlfwPcgcgcgcgcg
+cgTSxLrEjarBrBrBTSqtxLxLxLzCQwgQxLxLxLxLBhTSmpEITScgcgcgcgcg
+cgTSxLxLxLxLMexLjCxLxLmivMnfxLnfxLxLxLmixLjCGexLTScgcgcgcgcg
+cgTSYBEWYEmiTjxLTSxLxLxLTjxLxLxLxLKVxLxLvMTSTSTSTScgcgcgcgcg
+cgTSTSTSTSTSTSTSTSTSTSTSTSwPjCTSTSTSTSaMTSTScgcgcgcgcgcgcgcg
+cgTSCtiNwxbulBgPTSrUYcRgTRMexLoOidTSuSSVSQTScgcgcgcgcgcgcgcg
+cgTSUaMZxLfkxLxLiMGJGJfcQtxLFrvMxLjCxLJzxLTScgcgcgcgcgcgcgcg
+cgTSUuJPzdUYxLkHTSwexLNqxLRCxLdfgdTSOUNqtiYIcgcgcgcgcgcgcgcg
+cgTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTSTScgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,3) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,4) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,5) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,6) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,7) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,8) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,9) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,10) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,11) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,12) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,13) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,14) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,15) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,16) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,17) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,18) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,19) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,20) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,21) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,22) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,23) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,24) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,25) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,26) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,27) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,28) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,29) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
 (1,1,30) = {"
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
-ZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZK
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
+cgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcg
 "}
