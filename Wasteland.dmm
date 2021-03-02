@@ -1,30 +1,55 @@
 "a" = (/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"b" = (/obj/structure/bed/wooden,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"c" = (/obj/structure/table/reinforced,/obj/item/key,/obj/item/key,/obj/item/lock,/obj/item/lock,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"d" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/clothing_middle,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"e" = (/obj/structure/simple_door/metal/barred,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"f" = (/obj/structure/barricade/bars,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"g" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "h" = (/turf/open/indestructible/ground/outside/dirt,/area/f13/wasteland)
 "i" = (/obj/structure/chair/wood{dir = 1},/turf/open/floor/f13/wood,/area/f13/wasteland)
 "j" = (/obj/structure/campfire/stove,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"k" = (/obj/structure/table/wood/settler,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/obj/item/reagent_containers/glass/beaker/waterbottle/empty,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "l" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/f13/wood,/area/f13/wasteland)
+"m" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"n" = (/turf/open/indestructible/ground/outside/dirt{dir = 9; icon_state = "dirt"},/area/f13/wasteland)
+"o" = (/turf/open/floor/wood/f13/old/ruinedstraightwest,/area/f13/wasteland)
+"p" = (/obj/structure/table/reinforced,/obj/item/key/vending,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"q" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "r" = (/obj/structure/table/wood/settler,/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "s" = (/turf/open/indestructible/ground/outside/dirt{dir = 4; icon_state = "dirt"},/area/f13/wasteland)
 "t" = (/turf/closed/indestructible/ncrwall{icon_state = "supermart12"},/area/f13/wasteland)
+"u" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/f13/cash_random_high,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"v" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "w" = (/turf/closed/indestructible/sandstone,/area/f13/wasteland)
+"x" = (/obj/structure/table/reinforced,/obj/structure/barricade/bars,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "y" = (/obj/structure/chair/wood/normal{dir = 1},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "z" = (/turf/open/floor/f13/wood,/area/f13/wasteland)
+"A" = (/obj/structure/chair/wood,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "B" = (/obj/structure/chair/wood/normal{dir = 4; icon_state = "wooden_chair_settler"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"C" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/armor/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "D" = (/obj/structure/closet/crate/wicker,/obj/effect/spawner/lootdrop/clothing_low,/obj/effect/spawner/lootdrop/f13/armor/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/tier1,/obj/effect/spawner/lootdrop/f13/cash_random_low,/obj/effect/spawner/lootdrop/f13/weapon/melee/tier1,/turf/open/floor/f13/wood,/area/f13/wasteland)
+"E" = (/turf/open/indestructible/ground/outside/dirt{dir = 1; icon_state = "dirt"},/area/f13/wasteland)
 "F" = (/obj/structure/bookcase/random,/turf/open/floor/f13/wood,/area/f13/wasteland)
 "G" = (/turf/closed/indestructible/ncrwall{canSmoothWith = list(/turf/closed/indestructible/ncrwall)},/area/f13/wasteland)
 "H" = (/obj/structure/curtain{color = "#845f58"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "I" = (/turf/open/indestructible/ground/outside/dirt{dir = 4; icon_state = "dirt"; tag = "icon-dirt (EAST)"},/area/f13/wasteland)
 "J" = (/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "K" = (/obj/structure/chair/wood/normal,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"L" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"M" = (/obj/machinery/mineral/wasteland_trader,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "N" = (/turf/open/indestructible/ground/outside/dirt{dir = 8; icon_state = "dirt"},/area/f13/wasteland)
 "O" = (/obj/structure/bed/wooden,/obj/item/bedsheet{icon_state = "sheetbrown"; tag = "icon-sheetbrown"},/turf/open/floor/f13/wood,/area/f13/wasteland)
+"P" = (/obj/structure/reagent_dispensers/barrel/three,/obj/item/paper{name = "Water Merchants Order"},/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Q" = (/turf/open/floor/wood/f13/old/ruinedstraightsouth,/area/f13/wasteland)
+"R" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier2,/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier2,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "S" = (/obj/structure/table/wood/settler,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
+"T" = (/obj/structure/table/reinforced,/obj/structure/simple_door/metal/barred,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "U" = (/turf/closed/wall/f13/tentwall,/area/f13/wasteland)
+"V" = (/turf/open/indestructible/ground/outside/dirt{dir = 5; icon_state = "dirt"},/area/f13/wasteland)
 "W" = (/turf/open/floor/wood/f13/old/ruinedstraighteast,/area/f13/wasteland)
 "X" = (/obj/item/reagent_containers/glass/bowl,/obj/effect/spawner/lootdrop/food,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 "Y" = (/obj/structure/window/fulltile,/turf/open/indestructible/ground/outside/desert,/area/f13/wasteland)
+"Z" = (/obj/structure/rack,/obj/effect/spawner/lootdrop/f13/resourcespawner,/obj/effect/spawner/lootdrop/f13/resourcespawner,/obj/effect/spawner/lootdrop/f13/resourcespawner,/turf/open/floor/f13/wood{icon_state = "housewood2"; tag = "icon-housewood2"},/area/f13/wasteland)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -47,13 +72,13 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaawwwwwwwQwYwa
 aaaaaaaaaaaaaaaaaawJJXjUDzzOwa
-aaaaaaaaaaaaaaaaaawJKJJUDzzlwa
-aaaaaaaaaaaaaaaaaawBSJJUDzzOwa
-aaaaaaaaaaaaaaaaaawJJJJHzzzzYa
-aaaaaaaaaaaaaaaaaaWJJKJUDzzOwa
-aaaaaaaaaaaaaaaaaawJBrSUzzzzwa
-aaaaaaaaaaaaaaaaaaYJJJyUFFOiwa
-aaaaaaaaaaaaaIhNaawwwYwwwwYwwa
+wwwwwwwwwwwaaahaaawJKJJUDzzlwa
+wbPRdJpxMMwaaahaaawBSJJUDzzOwa
+wJJvCJJTJJwaaahaaawJJJJHzzzzYa
+wJJJJJcxJJoaEVhnEaWJJKJUDzzOwa
+wAJqmJJfJLwaashNaawJBrSUzzzzwa
+wukgZJJeJLwaashNaaYJJJyUFFOiwa
+wwwwwwwwwwwaaIhNaawwwYwwwwYwwa
 aaaaaaaaaaaaaIhNaaaaaaaaaaaaaa
 aaaaaaaaaaaaaIhNaaaaaaaaaaaaaa
 aaGttttGttttGshNGttttGttttGaaa
