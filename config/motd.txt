@@ -1,7 +1,7 @@
 ﻿<!-- Most valid html will work in here, excluding images. -->
 <hr>
-<h1 style="text-align: center;">Добро пожаловать на Fallout 13</h1>
+<h1 style="text-align: center;">Resurrection</h1>
 <hr>
-<p style="text-align: center;"><a href="https://www.reddit.com/r/Fallout13/">Наш реддит</a>. <em><br />Донаты будут направленны на разработку.</em><br /><br /> <em><strong>Разработка всё еще на стадии Бета, так что не надейтесь на идеально сбалансированный экшон в безграничной Пустоши, с всякими невероятными штуками о которых вы так давно мечтали.<br /> <br />Заходите поболтать в наш дружелюбный <a href="https://discord.gg/GEMmJYV">Дискорд чат</a> - с нами интересно.</strong></em> <br /><strong>Пожалуйста <a href="https://goo.gl/tskzbM">ПРОЧТИТЕ ПРАВИЛА СЕРВЕРА</a> - ignorantia juris non excusat (незнание правил не освобождает от ответственности)!</strong></p>
+<p style="text-align: center;"><a href="https://www.reddit.com/r/Fallout13/">Unofficial Fallout 13 Server</a>. <em><br />Resurrection is an Unofficial Fallout 13 server based on Fallout 13 code. It takes place before the events of Fallout 2 and is considered a dynamic roleplay server with minimal restrictions of freedom. For the original experience, visit CBET ATOMA. For a different experience, visit Crashpoint: WFKIA. For a more structured and strict experience, visit Desert Rose 2. </em><br
 <hr />
-<p><em><br />Наслаждайтесь плодами наших усердных трудов, и поддержите разработку!</em></p><hr>
+<p><em><br />You must be 18 or older to play here.</em></p><hr>
